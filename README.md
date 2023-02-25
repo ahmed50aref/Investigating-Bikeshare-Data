@@ -16,7 +16,7 @@ then it ask you if you want to see some rows from the filtered dataset.
 
 ## How to run script
 
-Before running this script you need to Download [anaconda](https://www.anaconda.com/). You also need to download the three datasets in the same directory of script. Now to run script:
+Before running this script you need to Download [anaconda](https://www.anaconda.com/). You also need to extract the three datasets in the same directory of script. Now to run script:
 1) move script and datasets' files to your user folder on you device
 2) open anaconda prompt
 3) type "python project.py"
