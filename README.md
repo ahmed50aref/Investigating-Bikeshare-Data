@@ -20,6 +20,7 @@ Before running this script you need to Download [anaconda](https://www.anaconda.
 1) move script and datasets' files to your user folder on you device
 2) open anaconda prompt
 3) type "python project.py"
+
 Now file will open on the prompt and it will start to ask you about city you want to explore then ask about month and day.
 
 After it show result it will ask you if want to see 5 rows from the filtered dataset.
