@@ -1,6 +1,6 @@
 # Investigating-Bikeshare-Data
 
-Thank you for taking a look at my project, This project is a python script used for exploring data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington to answer some statistical questions related to this data.\
+Thank you for taking a look at my project, This project is a python script used for exploring data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington to answer some statistical questions related to this data.
 
 this datasets provided by [Motivate](https://motivateco.com/) contain data about 300001 bike trip for each city with trip start and end time, trip duration, start and end staion etc...
 
