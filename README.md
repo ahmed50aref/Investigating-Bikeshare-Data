@@ -19,6 +19,6 @@ then it ask you if you want to see some rows from the filtered dataset.
 Before running this script you need to Download [anaconda](https://www.anaconda.com/). You also need to extract the three datasets in the same directory of script. Now to run script:
 1) move script and datasets' files to your user folder on you device
 2) open anaconda prompt
-3) type "python project.py"
+3) type "python project.py" and press enter
 
 Now file will open on the prompt and it will start to ask you about city you want to explore then ask about month and day. After it show result it will ask you if want to see 5 rows from the filtered dataset.
